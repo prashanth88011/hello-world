@@ -1,2 +1,2 @@
-<h1>This is a project </h1>
-<h2>Deploying on docker </h2>
+<h1>Deploy on VM </h1>
+<h2>Done </h2>
